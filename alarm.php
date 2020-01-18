@@ -63,7 +63,7 @@
 
 		#myList {
 		  position: absolute;
-		  width: 50%; 
+		  width: 50%;
 		  left: 50%;
 		  margin-left: -25%;
 		}
@@ -229,11 +229,11 @@
                         <!-- Logo icon -->
                         <!--End Logo icon -->
                         <!-- Logo text -->
-                        <span><img src="images/logo1.png" height="70px" alt="homepage" class="dark-logo" /></span>
+                        
                     </a>
                 </div>
                 <!-- End Logo -->
-                
+
             </nav>
         </div>
         <!-- End header header -->
@@ -251,7 +251,7 @@
                                 <li><a href="#">Set Alarm</a></li>
                             </ul>
                         </li>
-                        
+
                     </ul>
                 </nav>
                 <!-- End Sidebar navigation -->
@@ -333,7 +333,7 @@
             </div>
             <!-- End Container fluid  -->
             <!-- footer -->
-            
+
             <!-- End footer -->
         </div>
         <!-- End Page wrapper  -->
